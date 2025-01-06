@@ -1,2 +1,4 @@
 # Condensed-Mathematics
-My Bachelor's Thesis 
+Bachelor's Thesis. 
+**Authors:** Monirul Choudhury & Katrina Watson
+**Supervisor:** Dr. Tobias Rossmann
